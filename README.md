@@ -41,5 +41,5 @@ A simple RESTful API application built with Flask, designed to manage user data 
 3. **Access the Application**:
    Once the application is running, you can access the API at http://localhost:<port>(5000)
 
-##Testing
+Testing:
 Postman was used to test the API endpoints. You can also use cURL to test the API endpoints.
